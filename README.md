@@ -5,7 +5,7 @@
     <title>Strapi Deployment on EC2 with Terraform & Docker</title>
 </head>
 <body>
-    <h1>Deploy Strapi on EC2 using Terraform and Docker</h1>
+    <h1>Strapi Deployment on EC2 using Terraform and Docker</h1>
 
     <h2>Steps</h2>
     <ol>
